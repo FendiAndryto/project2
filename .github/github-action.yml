@@ -1,5 +1,5 @@
 name: GitHub Actions To Publish Docker Image
-run-name: ${{ github.actor }} in action 🚀
+run-name: ${{ github.actor }} to action 🚀
 on:
   push:
     branches:
